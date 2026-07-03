@@ -1,5 +1,3 @@
----
-
 # Hi, I'm Mustakim! 👋
 
 **Senior AI-Ready Fullstack Developer** | Engineering Scalable, Intelligent Systems
